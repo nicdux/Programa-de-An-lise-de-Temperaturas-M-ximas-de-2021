@@ -1,4 +1,6 @@
 # Projeto de Lógica de Programação - Fase 1
+#Dedicado aos alunos da  RIO GRANDE DO SUL
+#Logica & Programacao
 ## Análise de Dados Meteorológicos de 2021
 
 Este programa coleta dados de temperaturas máximas de cada mês do ano de 2021, valida os dados inseridos pelo usuário, realiza cálculos estatísticos e exibe os resultados.  
