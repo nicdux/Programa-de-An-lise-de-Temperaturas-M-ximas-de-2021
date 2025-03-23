@@ -1,5 +1,5 @@
 # Projeto de Lógica de Programação - Fase 1
-#Dedicado aos alunos da  RIO GRANDE DO SUL
+#Dedicado aos alunos da PUC DO IO GRANDE DO SUL
 #Logica & Programacao
 ## Análise de Dados Meteorológicos de 2021
 
